@@ -1,3 +1,19 @@
 html, body {
   width: 100px;
 }
+
+button {
+  width: 90px;
+}
+
+#buttons ul {
+  list-style: none;
+  text-align: center;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+}
+
+#buttons>ul>li {
+  display: inline-block;
+}
