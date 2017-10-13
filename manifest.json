@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "WindowSizy",
+  "version": "0.1",
+  "author": "Jean Pierre Wenzel",
+
+  "description": "Adds a button to the browser toolbar letting you resize the window with few clicks..",
+  "homepage_url": "https://github.com/jpwenzel/WindowSizy",
+
+  "applications": {
+    "gecko": {
+      "id": "windowsizy@jeanpierre.de"
+    }
+  },
+
+  "icons": {
+    "48": "icons/windowsizy-48.png"
+  },
+
+  "browser_action": {
+    "default_icon": "icons/windowsizy-48.png",
+    "default_title": "WindowSizy",
+    "default_popup": "popup/windowsizy-settings.html"
+  }
+
+}

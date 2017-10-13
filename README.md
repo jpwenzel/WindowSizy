@@ -1,2 +1,5 @@
 # WindowSizy
-Webextension for resizing a browser (e.g. Firefox) window
+This is a Webextension for resizing a browser window.
+
+# Credits
+Thomas Kraebihl, Jean Pierre Wenzel
